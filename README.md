@@ -55,7 +55,7 @@ Some examples of test-cases are also below.
 ---
 ### Check-list<a name="checklist"></a>
 
-(ft) - functional tests
+*(ft) - functional tests*
 
 #### Username field
 1. empty field
