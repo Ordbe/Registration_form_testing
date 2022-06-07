@@ -1,5 +1,5 @@
-## Description 
-Check-list composed for registration form. 
+### Description 
+> Check-list composed for registration form. 
 Composed scenarios are applicable to check different forms proceeded from invented requirements and principally shows variability of different tests.
 For simplicity checks are focused only on russian users (mainly regarding the requirement for a telephone number).
 For full-fledged covering and preparing scenarios for regression testing (also for comfortable covering by autotests) better to use test-cases. 
