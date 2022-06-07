@@ -12,33 +12,35 @@ For full-fledged covering examples of test-cases are also below.
 ---
 ### Entry requirements:<a name="entryrequirements"></a>
 
-##### Input fields:
-1. Username
+##### Elements:
+1. Username field
   - can be up to 26 characters long
   - can only use latin characters
   - can use both lowercase or uppercase letters
   - verification in real time (red text if violates the requirements, common text if not violates the requirements)
   - checking availability in real time (green check mark appears if available, red cross appears if not available)
-2. Phone number
+2. Phone number field
   - can be exactly 10 entered characters long
   - can only use numeric characters
   - append `+7` in front of the number automatically
-3. Number confirmation
+3. Number confirmation field
   - uses only 6 numeric characters
-5. Password
+4. Password field
   - can be up to 26 characters long
   - can use both lowercase or uppercase letters
   - can use special characters like `(spacebar) ! " # $ % &`
-7. Repeat password
+5. Repeat password field
   - can not be different to password field
   - verification of identity to password in real time (green check mark appears if available, notice "does not match the password" if not available)
-
-##### Buttons:
-1. Register
+6. Register button
   - available to push if entered values satisfied the requirements for input fields and personal data processing consent agreement checkbox marked.
-3. Repeat sending confirmation password
+7. Repeat sending confirmation password button
   - available after 40 seconds from previous sended request
+8. Personal data processing consent agreement checkbox
 
-##### Checkboxes:
-1. Personal data processing consent agreement
 
+---
+### Check-list
+
+#####Username field
+1. 
