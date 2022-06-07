@@ -1,6 +1,8 @@
 ## Description 
 Check-list composed for registration form. 
-Composed scenarios are applicable to check different forms and principally shows variability of different tests. For full-fledged covering examples of test-cases are also below.
+Composed scenarios are applicable to check different forms and principally shows variability of different tests.
+For simplicity checks are focused only on the Russian users.
+For full-fledged covering examples of test-cases are also below. 
 ---
 ### Marks:
 - [Entry requirements](#entryrequirements)
