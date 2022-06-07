@@ -1,14 +1,14 @@
 ## Description 
 Check-list composed for registration form. 
-Composed scenarios are applicable to check different forms and principally shows variability of different tests.
+Composed scenarios are applicable to check different forms proceeded from invented requirements and principally shows variability of different tests.
 For simplicity checks are focused only on russian users (mainly regarding the requirement for a telephone number).
 For full-fledged covering and preparing scenarios for regression testing (also for comfortable covering by autotests) better to use test-cases. 
-Some templates for test-case are also below. 
+Some examples of test-cases are also below. 
 ---
 ### Marks:
 - [Entry requirements](#entryrequirements)
 - [Check-list](#checklist)
-- [Test-case template](#testcases)
+- [Test-case examples](#testcases)
 
 ---
 ### Entry requirements:<a name="entryrequirements"></a>
