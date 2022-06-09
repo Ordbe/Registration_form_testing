@@ -48,11 +48,11 @@ Some examples of test-cases are also below.
     - can not be different to password field
     - verification of identity to password in real time (green check mark appears if available, notice "does not match the password" if not available) 
 
-8. **Register button**
-    - available to push if entered values satisfied the requirements for input fields and personal data processing consent agreement checkbox marked
-
-9. **Personal data processing consent agreement checkbox**
+8. **Personal data processing consent agreement checkbox**
     - Register button is not available without marked checkbox (duplicated from requirement to register button)
+
+9. **Register button**
+    - available to push if entered values satisfied the requirements for input fields and personal data processing consent agreement checkbox marked
 
 
 ---
@@ -130,3 +130,11 @@ Some examples of test-cases are also below.
 2. mismatch between the previous and repeated password
 3. XSS injection
 
+#### Personal data processing consent agreement checkbox
+1. marked by clicking in the checkbox *(ft)*
+2. marked when clicked on area of text description
+
+#### Register button
+1. activation when all fields and checkbox are filled with valid values *(ft)*
+2. activation when at least one of fields is filled with invalid value
+3. activation without personal data processing consent agreement 
