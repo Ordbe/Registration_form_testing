@@ -131,8 +131,9 @@ Some examples of test-cases are also below.
 3. XSS injection
 
 #### Personal data processing consent agreement checkbox
-1. marked by clicking in the checkbox *(ft)*
-2. marked when clicked on area of text description
+1. marked when clicked inside the checkbox *(ft)*
+2. marked when clicked at a nearest area around checkbox
+3. marked when clicked at an area of text description
 
 #### Register button
 1. activation when all fields and checkbox are filled with valid values *(ft)*
