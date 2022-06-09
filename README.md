@@ -57,7 +57,7 @@ Some examples of test-cases are also below.
 
 ---
 ### Check-list<a name="checklist"></a>
-
+### Fields validation
 *(ft) - functional tests*
 
 #### Username field
@@ -138,3 +138,10 @@ Some examples of test-cases are also below.
 1. activation when all fields and checkbox are filled with valid values *(ft)*
 2. activation when at least one of fields is filled with invalid value
 3. activation without personal data processing consent agreement 
+
+
+---
+### Test-cases<a  name="testcases"></a>
+
+#### Functional testing
+> 
