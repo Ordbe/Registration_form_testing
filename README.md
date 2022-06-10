@@ -150,16 +150,16 @@ Some examples of test-cases are also below.
 |**-Test group-**|*Registration form*|
 |**-Description-**|*Phone number verification*|
 |**-Precondition-**|*User is not registered*|
-|**-Steps-** <br>|**-Expected result-** <br>|
-|1. fill field of phone number with valid value|send confirmation password button became active|
-|2. press send confirmation password button|countdown timer appeared inside button, phone recieved confirmation code|
-|3. fill number confirmation field with recieved confirmation code|system accepted confirmation code, error notifications are not appeared|
+|**-Steps-**|**-Expected result-**|
+|1. fill field of phone number with valid value|*send confirmation password button became active*|
+|2. press send confirmation password button|*countdown timer appeared inside button, phone recieved confirmation code*|
+|3. fill number confirmation field with recieved confirmation code|*system accepted confirmation code, error notifications are not appeared*|
 
 |***testcase_2***||
 |---|---|
 |**-Test group-**|*Registration form*|
 |**-Description-**|*User registration*|
-|**-Precondition-**|*User is not registered, phone number verified*|
+|**-Precondition-**|*User is not registered, phone number confirmed*|
 |**-Steps-**|**-Expected result-**|
 |1. fill fields with valid values|system accepted input parameters|
 |2. mark checkbox of data processing consent agreement|checkbox checked|
