@@ -150,7 +150,7 @@ Some examples of test-cases are also below.
 |**-Test group-**|*Registration form*|
 |**-Description-**|*Phone number verification*|
 |**-Precondition-**|*User is not registered*|
-|**-Steps-**|**-Expected result-**|
+|**-Steps-** <br>|**-Expected result-** <br>|
 |1. fill field of phone number with valid value|send confirmation password button became active|
 |2. press send confirmation password button|countdown timer appeared inside button, phone recieved confirmation code|
 |3. fill number confirmation field with recieved confirmation code|system accepted confirmation code, error notifications are not appeared|
