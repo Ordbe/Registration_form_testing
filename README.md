@@ -145,16 +145,14 @@ Some examples of test-cases are also below.
 ### Test-cases<a  name="testcases"></a>
 
 #### Functional testing
-> |testcase_1|
-> |---|
-> |Test group|Registration form|
-> |Description|User registration|
-> |Precondition|User is not registered, phone number verified|
-> |Steps|
-> |---|
-> |- open page of registration
-> - fill fields with valid values
-> - Mark checkbox of data processing consent agreement
-> - Press "Register" button|
-> |Expected result|User registered, start page opened, successful registration message recieved on the phone|
-> 
+|**Name**|*testcase_1*|
+|---|---|
+|**Test group**|*Registration form*|
+|**Description**|*User registration*|
+|**Precondition**|*User is not registered, phone number verified*|
+|---|---|
+|**Steps**|**Expected result**|
+|- fill fields with valid values|system accepted input parameters|
+|- Mark checkbox of data processing consent agreement|checkbox checked|
+|- Press "Register" button|User registered, start page opened, successful registration message recieved on the phone|
+
