@@ -151,7 +151,7 @@ Some examples of test-cases are also below.
 |**-Description-**|*Phone number verification*|
 |**-Precondition-**|*User is not registered*|
 |**-Steps-**|**-Expected result-**|
-|1. fill field of phone number with valid value|*send confirmation password button became active*|
+|1. fill field of phone number with valid value|*"send confirmation password button" became active*|
 |2. press send confirmation password button|*countdown timer appeared inside button, phone recieved confirmation code*|
 |3. fill number confirmation field with recieved confirmation code|*system accepted confirmation code, error notifications are not appeared*|
 
@@ -161,7 +161,7 @@ Some examples of test-cases are also below.
 |**-Description-**|*User registration*|
 |**-Precondition-**|*User is not registered, phone number confirmed*|
 |**-Steps-**|**-Expected result-**|
-|1. fill fields with valid values|system accepted input parameters|
-|2. mark checkbox of data processing consent agreement|checkbox checked|
-|3. press "Register" button|User registered, start page opened, successful registration message recieved on the phone|
+|1. fill fields with valid values|*system accepted input parameters*|
+|2. mark checkbox of data processing consent agreement|*checkbox checked*|
+|3. press "Register" button|*user registered, start page opened, successful registration message recieved on the phone*|
 
